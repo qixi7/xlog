@@ -2,9 +2,9 @@ package xlog
 
 import (
 	"encoding/json"
+	"github.com/qixi7/xcore/xlog/lumberjack-2.0"
 	"log"
 	"time"
-	"xcore/xlog/lumberjack-2.0"
 )
 
 type FileLogger struct {
