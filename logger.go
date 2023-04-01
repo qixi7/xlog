@@ -2,7 +2,7 @@ package xlog
 
 import (
 	"errors"
-	"github.com/qixi7/xcore/xlog/lumberjack-2.0"
+	"github.com/qixi7/xlog/lumberjack-2.0"
 	"sync"
 	"sync/atomic"
 	"time"

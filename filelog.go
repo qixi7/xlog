@@ -2,7 +2,7 @@ package xlog
 
 import (
 	"encoding/json"
-	"github.com/qixi7/xcore/xlog/lumberjack-2.0"
+	"github.com/qixi7/xlog/lumberjack-2.0"
 	"log"
 	"time"
 )
